@@ -1,7 +1,9 @@
 import logging
 import os
+import json
 from google.cloud import translate_v3 as translate
 from google.api_core.exceptions import GoogleAPICallError
+from google.oauth2 import service_account
 
 logger = logging.getLogger(__name__)
 
@@ -9,20 +11,28 @@ logger = logging.getLogger(__name__)
 class LanguageService:
     def __init__(self, project_id: str = None, location: str = "global") -> None:
         """
-        Initialize the Google Cloud Translation Service.
-        Expects the environment variable GOOGLE_APPLICATION_CREDENTIALS to point to the JSON key file.
+        Initialize the Google Cloud Translation Service using credentials from a JSON environment variable.
         """
         try:
-            # Read project_id from argument or environment variable
+            # ✅ Get the credentials JSON from environment
+            credentials_json = os.getenv("GOOGLE_CREDENTIALS_JSON")
+            if not credentials_json:
+                raise ValueError("❌ GOOGLE_CREDENTIALS_JSON not set in environment.")
+
+            credentials = service_account.Credentials.from_service_account_info(
+                json.loads(credentials_json)
+            )
+
             self.project_id = project_id or os.getenv("GOOGLE_PROJECT_ID")
             if not self.project_id:
-                raise ValueError("❌ GOOGLE_PROJECT_ID not set in environment or arguments.")
-            
-            # Initialize the translation client
-            self.client = translate.TranslationServiceClient()
+                raise ValueError("❌ GOOGLE_PROJECT_ID not set in environment.")
+
+            # ✅ Initialize client with credentials
+            self.client = translate.TranslationServiceClient(credentials=credentials)
             self.parent = f"projects/{self.project_id}/locations/{location}"
 
             logger.info("✅ LanguageService initialized with Google Cloud Translate.")
+
         except Exception as e:
             logger.error(f"❌ Failed to initialize Google Cloud Translate: {e}")
             raise
@@ -30,7 +40,7 @@ class LanguageService:
     def detect_language(self, text: str) -> str:
         """
         Detect the input language using Google Cloud Translate.
-        Returns the language code as a lowercase string (e.g., 'en', 'hi').
+        Returns the language code (e.g., 'en', 'hi').
         """
         try:
             response = self.client.detect_language(
