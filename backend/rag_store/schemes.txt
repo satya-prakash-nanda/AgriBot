@@ -1,0 +1,819 @@
+### Scheme: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)  
+Type: Central  
+Tags: income support, DBT, landholding farmers, financial inclusion, financial stability  
+
+Description:  
+The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a flagship central government scheme launched in February 2019 to provide direct income support to all landholding farmer families in India, aiming to improve their financial stability and reduce dependency on informal credit sources. Under the scheme, each eligible farmer receives ₹6,000 per year, paid in three equal installments of ₹2,000 directly into their Aadhaar-linked bank accounts via Direct Benefit Transfer (DBT).
+
+Originally targeted at small and marginal farmers holding up to 2 hectares of cultivable land, the scheme was later expanded to cover all landholding farmers regardless of land size. However, exclusion criteria apply to institutional landholders and individuals in higher income brackets, such as income-tax payers, professionals (doctors, engineers, lawyers), and retired pensioners above a certain income threshold.
+
+The identification of beneficiaries is carried out by respective state and union territory governments, using digitized land records and verification protocols. The government has mandated e-KYC (electronic Know Your Customer) for all beneficiaries to reduce fraud and improve delivery efficiency.
+
+The scheme is supported by a robust IT infrastructure, including mobile app integration, SMS notifications, beneficiary tracking portals, and grievance redressal mechanisms. The funds are often used by farmers to purchase seeds, fertilizers, small equipment, or to manage short-term household expenditures during the sowing and harvesting cycles.
+
+As of 2025, more than ₹3 lakh crore has been disbursed to over 11 crore farmer families. The government continues to strengthen transparency by integrating the scheme with Aadhaar authentication, land record databases, and Jan Dhan accounts. The PM-KISAN scheme plays a vital role in ensuring a minimum assured income for millions of rural households and aligns with the national vision of doubling farmers' income.
+
+
+
+
+### Scheme: Pradhan Mantri Fasal Bima Yojana (PMFBY)  
+Type: Central  
+Tags: crop insurance, climate resilience, risk mitigation, premium subsidy, satellite monitoring  
+
+Description:  
+The Pradhan Mantri Fasal Bima Yojana (PMFBY) is the Government of India's flagship crop insurance program launched in 2016 to provide financial protection to farmers against crop loss due to natural disasters, pests, and diseases. It is one of the largest agricultural risk mitigation schemes in the world, designed to ensure farmers' income stability by minimizing their exposure to uncertainties during cultivation cycles.
+
+The scheme covers a wide range of risks — from sowing failure to post-harvest losses — across all major crop seasons (Kharif and Rabi) and includes cereals, pulses, oilseeds, and horticultural crops. Farmers pay a highly subsidized premium: 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial and horticultural crops. The remaining premium is shared equally by the central and state governments, making it one of the most affordable insurance schemes for farmers.
+
+PMFBY enrollment is mandatory for loanee farmers (those who take institutional credit) and voluntary for non-loanee farmers. The scheme uses cutting-edge technologies such as remote sensing, satellite imagery, drone-based crop assessments, GPS-enabled crop-cutting experiments, and AI-powered loss estimations to ensure timely and accurate compensation.
+
+Claims are assessed at the notified insurance unit level (typically village or panchayat) and paid out electronically to the farmers’ bank accounts. To ensure transparency and accountability, the government has introduced the Crop Insurance Portal, DigiClaim software, mobile apps, and farmer helpdesks. Farmers can also use geo-tagged photos to report crop damage.
+
+Since its inception, the scheme has insured over 7 crore farmers and facilitated claims of more than ₹1.3 lakh crore. It has helped reduce agrarian distress in climate-vulnerable regions, improved institutional credit access, and increased the confidence of small and marginal farmers in adopting improved agricultural practices. The latest reforms include a provision for states to opt out, more competitive bidding by insurers, and the introduction of blockchain pilots for faster claim processing.
+
+
+
+
+### Scheme: Pradhan Mantri Krishi Sinchai Yojana (PMKSY)  
+Type: Central  
+Tags: irrigation, water management, micro-irrigation, watershed development, drought resilience  
+
+Description:  
+Launched in 2015, the Pradhan Mantri Krishi Sinchai Yojana (PMKSY) is India’s flagship integrated irrigation development program with the slogan “Har Khet Ko Pani” (Water for Every Field). The scheme was formulated to provide end-to-end solutions in irrigation supply and water-use efficiency, ensuring that every farm gets adequate water and reducing the dependency on monsoon rainfall.
+
+PMKSY is implemented through a convergence of various ministries — including Agriculture, Jal Shakti, and Rural Development — and brings together components like:
+- **Accelerated Irrigation Benefit Programme (AIBP)** for large irrigation projects
+- **Watershed Development** for rainwater harvesting and conservation
+- **Per Drop More Crop (PDMC)** for promoting micro-irrigation systems such as drip and sprinkler irrigation
+
+The scheme finances the creation of new water sources, restoration of traditional water bodies, construction of check dams and ponds, and promotion of efficient irrigation technologies. Special financial assistance of up to 55% for small/marginal farmers (45% for others) is provided for installing micro-irrigation equipment. Beneficiaries can also receive subsidies for pipes, sensors, fertigation units, and mobile irrigation kits.
+
+Advanced monitoring is done through geo-tagging, mobile GIS apps, and satellite tracking. Implementation is decentralized and district-focused, allowing states to prepare irrigation development plans suited to local agro-climatic zones. PMKSY also supports farmer training on water budgeting, canal maintenance, and soil-water balance techniques.
+
+As of 2024, over 21 lakh hectares of land have been brought under irrigation coverage through this scheme, particularly benefiting arid and semi-arid regions like Rajasthan, Maharashtra, and Gujarat. PMKSY has significantly contributed to enhanced cropping intensity, diversification into high-value crops, and improved income for water-stressed farmers. It is regarded as a cornerstone of India’s mission for sustainable and climate-resilient agriculture.
+
+
+
+
+### Scheme: Kisan Credit Card (KCC) Scheme  
+Type: Central  
+Tags: agricultural credit, NABARD, interest subsidy, formal banking, livestock, fisheries  
+
+Description:  
+The Kisan Credit Card (KCC) Scheme, launched in 1998 by the National Bank for Agriculture and Rural Development (NABARD), is a major financial inclusion initiative aimed at providing short-term, timely, and affordable credit to farmers to meet their cultivation and allied requirements. It covers not only crop loans but also working capital needs for activities such as animal husbandry, dairy, poultry, fisheries, and even post-harvest expenses.
+
+Under the scheme, farmers are issued a credit card-cum-passbook that enables easy access to bank credit through ATMs, bank branches, mobile banking, and biometric-enabled micro-ATMs. The scheme offers a flexible credit limit based on the cropping pattern, scale of finance, post-harvest costs, and household expenses. The loan limit can range from ₹10,000 to over ₹3 lakh depending on the need and repayment capacity.
+
+A key benefit is the interest subvention: farmers who repay promptly can avail loans at an effective interest rate of 4% per annum. The scheme also includes insurance benefits for accidental death and disability. In recent years, it has been expanded to cover fisheries and animal husbandry through convergence with other central sector schemes.
+
+A major push came in 2020 when the government decided to link PM-KISAN beneficiaries with KCC accounts, aiming to bring over 2.5 crore additional farmers into the formal credit system. The digitization of land records and Aadhaar integration have simplified the loan sanction process.
+
+As of 2025, more than 7.75 crore active KCC accounts have been opened, and loans worth ₹9.8 lakh crore have been disbursed. The KCC scheme has significantly reduced farmers' dependency on informal moneylenders and facilitated financial discipline in rural households.
+
+
+
+
+### Scheme: Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)  
+Type: Central  
+Tags: solar pumps, renewable energy, irrigation, clean power, sustainable farming  
+
+Description:  
+Launched in 2019, the Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM) is a transformative clean energy initiative that empowers farmers with solar technology to ensure reliable irrigation while reducing dependence on conventional power sources such as grid electricity and diesel.
+
+The scheme has three major components:
+- **Component A**: Installation of decentralized solar power plants (up to 2 MW capacity) on barren or fallow lands, allowing farmers or cooperatives to sell surplus solar energy to the grid.
+- **Component B**: Solarization of existing grid-connected agricultural pumps to reduce subsidy burden on discoms and offer farmers reliable electricity.
+- **Component C**: Provision of standalone solar-powered pumps (up to 7.5 HP) to off-grid farmers, especially in remote and rainfed regions.
+
+PM-KUSUM provides a 60% capital subsidy on the solar system cost, 30% is financed via banks, and only 10% is borne by the farmer. This financial structure ensures affordability and encourages faster adoption.
+
+As of 2024, over 2.5 lakh solar pumps have been deployed, primarily in high solar potential states such as Rajasthan, Madhya Pradesh, Maharashtra, and Gujarat. The initiative supports sustainable agriculture by lowering electricity costs, reducing carbon emissions, and enhancing water availability for multiple cropping.
+
+The scheme also opens up new income streams as farmers can generate and sell excess electricity back to the grid. It promotes local entrepreneurship in solar pump servicing and maintenance and contributes significantly to India’s targets under the Paris Climate Agreement. PM-KUSUM is a key pillar of the national goal to double farmers’ income and achieve energy security in the agriculture sector.
+
+
+
+### Scheme: Soil Health Card Scheme  
+Type: Central  
+Tags: soil testing, fertilizer optimization, organic farming, micronutrients, soil fertility  
+
+Description:  
+The Soil Health Card (SHC) Scheme, launched in 2015, is a scientific and advisory initiative by the Ministry of Agriculture to promote balanced fertilizer use and sustainable soil management practices across India. The goal is to provide every farmer with a personalized soil health card that contains detailed information about the nutritional and health status of their land.
+
+The cards are generated based on laboratory analysis of soil samples collected from the farmer's field. The analysis covers 12 key parameters including pH, electrical conductivity, organic carbon, and macro- and micronutrients like nitrogen, phosphorus, potassium, zinc, iron, manganese, and boron.
+
+Each card includes crop-wise recommendations on fertilizer use, soil amendments, and corrective measures, helping farmers reduce excess use of urea and other inputs while improving productivity and profitability. SHCs are issued once every two years and are accessible via mobile apps and web portals.
+
+To support this massive exercise, the scheme operates through over 3,600 static and mobile soil testing laboratories across the country, with dedicated state-level and district-level coordination cells. It also includes awareness campaigns, training programs for farmers, and integration with precision farming tools.
+
+As of 2024, more than 23 crore soil health cards have been issued, covering over 14 crore farmers. Implementation of SHC recommendations has led to an estimated input cost reduction of 8–10% and yield increases of up to 15%. The scheme plays a crucial role in enhancing soil productivity, ensuring long-term ecological sustainability, and reducing the environmental footprint of Indian agriculture.
+
+
+
+
+
+### Scheme: National Agriculture Market (e-NAM)  
+Type: Central  
+Tags: digital mandi, online trading, price discovery, FPO, market linkage  
+
+Description:  
+Launched in April 2016, the National Agriculture Market (e-NAM) is a flagship e-governance initiative aimed at creating a unified national digital marketplace for agricultural commodities. It integrates regulated physical mandis across the country with a centralized online trading platform, allowing farmers, traders, and buyers to transact without geographical constraints.
+
+The platform allows electronic bidding, real-time price discovery, assaying-based quality grading, digital payments, and logistics support. More than 2,100 agricultural produce market committees (APMCs) across 22 states and union territories have been onboarded, making it one of the largest agri-digital platforms globally.
+
+Over 2.5 crore farmers, 1.5 lakh traders, and thousands of Farmer Producer Organizations (FPOs) are registered on the platform. Farmers can list their produce, view prevailing prices across mandis, and sell directly to buyers, reducing dependence on middlemen and enhancing price realization.
+
+Recent upgrades include FPO-based trading modules, warehouse receipt integration, AI-based price forecasting tools, payment reconciliation modules, and cross-border e-mandi linkages. e-NAM is now accessible via a multilingual mobile app, ensuring inclusivity and ease of use for small and marginal farmers.
+
+The scheme is aligned with initiatives like AgriStack and One Nation-One Market and promotes transparency, competition, and better logistics planning. By digitizing the mandi ecosystem, e-NAM plays a pivotal role in modernizing agricultural marketing and enhancing the profitability of rural producers.
+
+
+
+
+
+### Scheme: Agriculture Infrastructure Fund (AIF)  
+Type: Central  
+Tags: post-harvest, warehousing, agri-logistics, financing, cold storage, value chain  
+
+Description:  
+Launched in 2020, the Agriculture Infrastructure Fund (AIF) is a medium to long-term financing facility initiated by the Government of India to strengthen agricultural infrastructure at the farm gate and across the supply chain. The scheme aims to reduce post-harvest losses, modernize storage and logistics, and improve value realization for farmers.
+
+With a total outlay of ₹1 lakh crore, AIF provides interest subvention of 3% per annum on loans of up to ₹2 crore for a maximum period of 7 years. It also offers credit guarantee coverage under CGTMSE for eligible borrowers. The fund supports a wide range of infrastructure projects including:
+- Cold storage units
+- Warehouses and godowns
+- Primary processing centers
+- Grading and sorting facilities
+- Packaging units
+- E-marketing and logistics platforms
+- Custom Hiring Centers
+- Export-oriented facilities
+
+Eligible beneficiaries include farmers, Farmer Producer Organizations (FPOs), cooperatives, agri-tech startups, self-help groups (SHGs), marketing federations, and private entrepreneurs. The scheme is implemented through a dedicated portal integrated with all participating banks, which offers online application, monitoring, and disbursement workflows.
+
+AIF promotes public-private partnerships and convergence with other schemes like e-NAM, PM-KISAN, and PM-FME. It encourages investments in climate-resilient and modernized agri-value chains.
+
+As of 2025, over ₹45,000 crore worth of projects have been sanctioned across more than 30 states, generating employment, boosting rural entrepreneurship, and enhancing storage capacity. The scheme plays a central role in India's vision to make agriculture a market-driven and export-ready enterprise.
+
+
+
+
+
+### Scheme: Pradhan Mantri Matsya Sampada Yojana (PMMSY)  
+Type: Central  
+Tags: fisheries, aquaculture, cold chain, marine economy, export, rural employment  
+
+Description:  
+The Pradhan Mantri Matsya Sampada Yojana (PMMSY), launched in 2020 under the Ministry of Fisheries, Animal Husbandry and Dairying, is a comprehensive scheme designed to revolutionize India’s fisheries and aquaculture sector. With an investment exceeding ₹20,000 crore, PMMSY aims to enhance fish production, boost export revenue, ensure nutritional security, and generate employment across coastal and inland regions.
+
+Key objectives include:
+- Doubling fish production to 22 million metric tonnes by 2025
+- Reducing post-harvest losses from 25% to 10%
+- Increasing aquaculture productivity and sustainability
+- Expanding livelihood and entrepreneurship opportunities for fishers
+
+The scheme supports infrastructure development such as:
+- Fishing harbors and landing centers
+- Hatcheries and nurseries
+- Cold chains and ice plants
+- Fish feed mills and biosecurity labs
+- Ornamental fish parks
+- Modern boats, cages, and pond liners
+
+PMMSY covers both marine and inland fisheries, ornamental aquaculture, seaweed farming, and value chain development. It provides subsidies for small fishers, credit-linked support, training programs, and insurance coverage.
+
+The scheme also encourages scientific innovations like satellite tracking of boats, blockchain-based fish traceability, and disease surveillance systems. Women SHGs and tribal communities are given special incentives for inclusion.
+
+By 2024, over 25 lakh fishers and aquaculture entrepreneurs have benefited, and India’s fish exports have reached record levels. The mission contributes to livelihood diversification, rural nutrition, and the blue economy, while aligning with global sustainability targets.
+
+
+
+
+
+### Scheme: National Mission on Sustainable Agriculture (NMSA)  
+Type: Central  
+Tags: climate change, agroforestry, organic farming, drought-resilience, sustainability  
+
+Description:  
+The National Mission on Sustainable Agriculture (NMSA) is a key initiative under India’s National Action Plan on Climate Change (NAPCC), designed to make agriculture more adaptive to climate variability and environmentally sustainable. NMSA promotes technologies, farming systems, and water management practices that ensure long-term soil health and productivity.
+
+Its core components include:
+- **Rainfed Area Development (RAD)**: Promotes integrated farming, including horticulture, livestock, and fisheries, with water harvesting and soil conservation.
+- **On-Farm Water Management (OFWM)**: Encourages precision irrigation, water budgeting, and energy-efficient pumps.
+- **Soil Health Management (SHM)**: Supports bio-fertilizers, compost units, and decentralized testing labs.
+- **Climate Smart Agriculture**: Demonstrations, capacity building, and ICT-based weather advisory systems.
+
+NMSA works closely with Krishi Vigyan Kendras (KVKs), FPOs, and Panchayati Raj institutions to reach remote and vulnerable agro-ecological zones. Special funding is provided for drought-prone, flood-affected, and hilly regions.
+
+The mission also promotes agroforestry, conservation agriculture, carbon sequestration practices, and reduced chemical input farming. It encourages resilient crop varieties, traditional seed systems, and ecosystem restoration.
+
+As of 2023, NMSA has benefited thousands of villages in arid and semi-arid regions, resulting in better water-use efficiency, improved yields, and enhanced rural incomes. It is a cornerstone of India’s efforts to mainstream environmental sustainability and climate-resilient farming.
+
+
+
+
+
+
+### Scheme: Rashtriya Krishi Vikas Yojana (RKVY-RAFTAAR)  
+Type: Centrally Sponsored  
+Tags: state planning, agri-startups, innovation, agri-infrastructure, entrepreneurship  
+
+Description:  
+Rashtriya Krishi Vikas Yojana (RKVY), launched in 2007 and restructured as RKVY-RAFTAAR (Remunerative Approaches for Agriculture and Allied sector Rejuvenation) in 2017, is a flexible, demand-driven scheme that provides funding to state governments for implementing region-specific agricultural development plans.
+
+The primary goal is to incentivize states to increase their agricultural investment and foster innovation, entrepreneurship, and infrastructure creation at the grassroots. Funds are allocated based on states’ past agricultural expenditure and performance.
+
+Key components of RKVY-RAFTAAR include:
+- **Infrastructure and Assets**: Rural haats, custom hiring centers, seed hubs, mechanization support, storage, and irrigation projects
+- **Value Chain Development**: Support for processing units, branding, and marketing of agri-products
+- **Innovation and Startups**: Grants of up to ₹25 lakh for agri-tech startups through incubation centers
+- **Skill Development and Training**: Farmer education and capacity-building workshops
+
+The scheme allows states to prepare their own Agriculture Plans (SAPs) in line with national priorities but tailored to local agro-climatic and socio-economic conditions. It also enables convergence with central schemes like PMKSY, PKVY, and AIF.
+
+States like Punjab, Karnataka, and Tamil Nadu have used RKVY to implement cutting-edge projects such as drone-based crop monitoring, IoT-based irrigation systems, and digital soil testing labs.
+
+RKVY has helped improve irrigation coverage, seed quality, infrastructure availability, and market linkages. It empowers state agencies to drive agricultural transformation aligned with local needs and is pivotal for decentralized planning and innovation in Indian agriculture.
+
+
+
+### Scheme: National Beekeeping and Honey Mission (NBHM)  
+Type: Central  
+Tags: beekeeping, pollination, honey production, rural livelihoods, biodiversity  
+
+Description:  
+The National Beekeeping and Honey Mission (NBHM), launched in 2020 under the Ministry of Agriculture and Farmers Welfare, aims to promote scientific beekeeping and develop the apiculture sector in a holistic and sustainable way. It plays a dual role in enhancing agricultural productivity through pollination and generating income for rural households through honey and value-added bee products.
+
+The mission has three major objectives:
+1. **Capacity Building and Training**: Training of farmers, beekeepers, entrepreneurs, and SHGs in colony management, queen rearing, disease control, and scientific practices.
+2. **Infrastructure and Equipment Support**: Financial assistance for establishing bee colonies, apiaries, honey processing units, quality testing labs, storage, branding, and marketing infrastructure.
+3. **Market Linkage and Quality Assurance**: Certification, traceability systems, and aggregation through FPOs to ensure domestic and international market access.
+
+NBHM promotes integration of beekeeping with crop farming, horticulture, forest produce, and medicinal plants. It encourages pollinator-friendly farming and the cultivation of nectar-rich plants to improve bee foraging.
+
+Special incentives are provided for women beekeepers, tribal communities, and high-potential states such as Uttarakhand, Madhya Pradesh, Himachal Pradesh, and Bihar. In addition to honey, the mission supports production of beeswax, royal jelly, pollen, and propolis.
+
+As of 2024, over 3 lakh beekeepers have been trained and certified. Honey exports have crossed ₹1,000 crore, and India has emerged as a global player in the natural honey segment. NBHM is crucial for enhancing biodiversity, improving pollination services, and increasing farmers’ income.
+
+
+
+### Scheme: Sub-Mission on Agricultural Mechanization (SMAM)  
+Type: Central  
+Tags: farm machinery, custom hiring centers, mechanization, subsidies, technology adoption  
+
+Description:  
+Launched in 2014, the Sub-Mission on Agricultural Mechanization (SMAM) aims to increase the reach of farm machinery to small and marginal farmers, especially in resource-constrained and hilly regions. The objective is to improve agricultural productivity, reduce labor dependency, and enhance resource-use efficiency through adoption of modern equipment.
+
+SMAM provides:
+- Financial assistance of 40–60% for purchase of farm machinery such as tractors, power tillers, rotavators, seeders, sprayers, harvesters, drones, and specialized implements.
+- Higher subsidy rates (up to 80%) for SC/ST, women farmers, and beneficiaries in north-eastern and hill states.
+- Support for establishment of **Custom Hiring Centers (CHCs)** that allow group/rental-based access to high-cost machines.
+- Promotion of **Farm Machinery Banks** and **Hi-Tech Hubs** for collective usage.
+- Demonstrations and field trials of new technologies under supervised conditions.
+
+The scheme is implemented through state governments and monitored using the Direct Benefit Transfer (DBT) portal for equipment subsidy.
+
+SMAM helps address the issue of rising rural wages and declining agricultural labor availability. It has accelerated precision farming adoption, reduced turnaround time between sowing and harvesting, and minimized post-harvest losses.
+
+As of 2023, over 1.8 lakh individual machines have been distributed and more than 6,000 CHCs established. The scheme has helped boost productivity, reduce drudgery, and improve profitability in regions like Punjab, Andhra Pradesh, Haryana, and Chhattisgarh. It contributes significantly to sustainable agriculture and climate-smart farming.
+
+
+
+
+### Scheme: Paramparagat Krishi Vikas Yojana (PKVY)  
+Type: Central  
+Tags: organic farming, biofertilizers, PGS certification, traditional agriculture, cluster farming  
+
+Description:  
+The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is the Government of India’s flagship scheme to promote organic farming using traditional knowledge, sustainable inputs, and participatory certification systems. It empowers farmers to transition away from chemical-intensive practices and access premium organic markets.
+
+Key features of the scheme:
+- Formation of farmer clusters: Groups of 50 farmers cultivating 50 hectares are formed for collective adoption of organic methods.
+- **Financial assistance of ₹50,000 per hectare** for three years, including support for inputs like bio-fertilizers, compost units, green manure, and crop rotation.
+- Participatory Guarantee System (PGS) certification for market recognition of organic produce.
+- Capacity building through training, field demonstrations, and exposure visits.
+
+PKVY also promotes:
+- Revival of indigenous seed varieties and traditional knowledge systems.
+- Development of organic value chains through branding, packaging, and direct marketing.
+- State-level implementation through departments of agriculture, horticulture, and NGOs.
+
+As of 2024, over 7 lakh hectares have been brought under certified organic cultivation. States like Sikkim (fully organic), Kerala, and Uttarakhand have taken a lead in implementation. The scheme supports the government’s broader push for natural farming under initiatives like Bhartiya Prakritik Krishi Paddhati (BPKP).
+
+PKVY contributes to soil health restoration, environmental sustainability, nutrition security, and farm profitability, particularly for small and marginal farmers in rainfed and tribal areas.
+
+
+
+
+### Scheme: Micro Irrigation Fund (MIF)  
+Type: Central (Financed by NABARD)  
+Tags: drip irrigation, sprinkler systems, water efficiency, PMKSY, climate resilience  
+
+Description:  
+The Micro Irrigation Fund (MIF), launched in 2018 and operated through the National Bank for Agriculture and Rural Development (NABARD), is a financing facility to accelerate adoption of micro-irrigation across states. It complements the “Per Drop More Crop” component of the Pradhan Mantri Krishi Sinchai Yojana (PMKSY) and addresses financial gaps in subsidy provisioning.
+
+The fund offers long-term, low-interest loans to state governments for implementing micro-irrigation projects and scaling up coverage, especially in water-scarce and drought-prone regions. It supports:
+- Installation of **drip and sprinkler systems**
+- Construction of farm ponds and water harvesting structures
+- Convergence with PMKSY, KCC, AIF, and Soil Health Card schemes
+- Infrastructure for fertigation and pipe distribution networks
+
+Subsidy components are usually 55% for small/marginal farmers and 45% for others, while SC/ST and NE states receive higher benefits.
+
+As of 2024, more than ₹8,000 crore has been sanctioned under MIF, supporting micro-irrigation projects covering over 18 lakh hectares. States like Tamil Nadu, Gujarat, Maharashtra, and Andhra Pradesh have been major beneficiaries, implementing cluster-based approaches and e-governance tools for monitoring.
+
+MIF has helped farmers improve crop productivity, reduce water and fertilizer wastage, and ensure year-round cultivation. It plays a critical role in India’s climate-smart agriculture strategy and enhances the resilience of the farming system in the face of increasing water stress.
+
+
+
+
+### Scheme: National Food Security Mission (NFSM)  
+Type: Centrally Sponsored  
+Tags: food security, pulses, cereals, productivity enhancement, tribal farming, seed distribution  
+
+Description:  
+Launched in 2007, the National Food Security Mission (NFSM) is a centrally sponsored program aimed at ensuring India’s self-sufficiency in food grain production by promoting area expansion, improving productivity, and enhancing farm-level technology adoption. The mission targets major staples including rice, wheat, pulses, coarse cereals, and oilseeds, especially in rainfed and tribal regions.
+
+Core interventions under NFSM include:
+- Distribution of high-yielding and stress-tolerant seed varieties
+- Soil amendments like gypsum and micronutrients
+- Plant protection kits and Integrated Pest Management (IPM)
+- Procurement of farm machinery and equipment
+- On-farm demonstrations and farmer field schools
+
+The mission has a strong focus on pulse cultivation and millet promotion, providing region-specific packages of practices suited to dryland areas. Under the millet component, farmers are encouraged to adopt biofortified varieties with high nutrient content.
+
+NFSM supports establishment of seed hubs and mini kits, demonstration of crop production technologies, cluster demonstrations, and post-harvest value addition units.
+
+States with significant tribal populations—like Odisha, Chhattisgarh, and Madhya Pradesh—have successfully integrated NFSM with traditional farming systems, ensuring greater productivity while respecting local knowledge.
+
+As of 2024, NFSM has helped raise India’s annual food grain production to over 315 million tonnes. The mission contributes directly to national food security, employment generation, and climate resilience through crop diversification and sustainable practices.
+
+
+
+
+
+### Scheme: Livestock Health and Disease Control Scheme (LHDC)  
+Type: Central  
+Tags: animal health, vaccination, FMD eradication, veterinary care, dairy productivity  
+
+Description:  
+The Livestock Health and Disease Control Scheme (LHDC) is a centrally funded initiative focused on the improvement of livestock health, disease surveillance, and veterinary infrastructure in India. It plays a vital role in reducing mortality, improving milk and meat productivity, and ensuring the biosecurity of India’s vast livestock population.
+
+A key component under LHDC is the **National Animal Disease Control Programme (NADCP)**, which aims to eradicate Foot and Mouth Disease (FMD) and Brucellosis by 2030. With a massive budget of over ₹13,000 crore, NADCP provides 100% central funding for:
+- Mass vaccination of over 500 million livestock (cattle, buffalo, pigs, sheep, goats)
+- Regular immunization cycles and booster doses
+- Identification and tagging of animals with unique IDs
+- Strengthening diagnostic laboratories and cold chains
+
+The scheme also funds:
+- Mobile Veterinary Units (MVUs) for doorstep treatment
+- Animal Disease Diagnostic Labs (ADDLs) and Regional Disease Diagnostic Labs (RDDL)
+- Veterinary training and capacity building programs
+
+States like Punjab, Karnataka, and Maharashtra have adopted technology-driven implementations with GPS-tracked MVUs, SMS reminders for vaccinations, and mobile apps for livestock health reporting.
+
+As of 2023, over 100 crore vaccinations have been administered, drastically reducing disease prevalence. LHDC ensures public health safety, enhances rural incomes from dairy and meat sectors, and supports export competitiveness in livestock products.
+
+
+
+### Scheme: Mission for Integrated Development of Horticulture (MIDH)  
+Type: Centrally Sponsored  
+Tags: horticulture, fruits, vegetables, floriculture, GAP certification, value addition  
+
+Description:  
+The Mission for Integrated Development of Horticulture (MIDH), launched in 2014, is India’s comprehensive scheme to boost the production, post-harvest management, and marketing of horticultural crops including fruits, vegetables, spices, flowers, medicinal plants, and mushrooms.
+
+Key facilities under MIDH:
+- Assistance for setting up nurseries and certified planting material
+- Financial support for protected cultivation (greenhouses, polyhouses)
+- Installation of micro-irrigation and fertigation systems
+- Cold storage, ripening chambers, and processing units
+- Subsidies for packaging, branding, and export promotion
+- Training and certification in Good Agricultural Practices (GAP)
+
+The mission encourages aggregation through Farmer Producer Organizations (FPOs), promotes organic horticulture, and funds infrastructure under the Cluster Development Approach.
+
+MIDH is implemented through five sub-components:
+1. National Horticulture Mission (NHM)
+2. Horticulture Mission for North East and Himalayan States (HMNEH)
+3. National Horticulture Board (NHB)
+4. Coconut Development Board (CDB)
+5. Central Institute of Horticulture (CIH), Nagaland
+
+States like Himachal Pradesh, Maharashtra, Karnataka, and Tamil Nadu have used MIDH funds to build high-value horticulture value chains, improve farmer incomes, and promote export-quality produce.
+
+By 2024, India’s horticultural output had exceeded 350 million tonnes. MIDH plays a critical role in employment generation, nutritional security, and agricultural diversification.
+
+
+
+
+### Scheme: Attracting and Retaining Youth in Agriculture (ARYA)  
+Type: Central (ICAR)  
+Tags: rural youth, entrepreneurship, agri-startups, value addition, migration prevention  
+
+Description:  
+The Attracting and Retaining Youth in Agriculture (ARYA) initiative, launched by the Indian Council of Agricultural Research (ICAR) under the National Agricultural Innovation Fund, aims to address rural-urban migration by engaging youth in profitable agricultural enterprises.
+
+ARYA is implemented through Krishi Vigyan Kendras (KVKs) across selected districts and provides:
+- Hands-on training and mentoring in high-value agri-enterprises like poultry, piggery, mushroom farming, beekeeping, food processing, floriculture, and aquaponics.
+- Financial assistance and incubation support to set up small businesses
+- Infrastructure development such as tool rooms, mini-processing units, and storage sheds
+- Marketing linkages and digital platforms for sales and branding
+
+The program emphasizes value addition and backward/forward linkages to ensure profitability. Rural youth are trained to become employers rather than job seekers by integrating local resources and market demand.
+
+As of 2024, over 3,000 youth-led enterprises have been successfully established in over 100 districts. The scheme has shown excellent outcomes in backward and tribal areas by fostering leadership, innovation, and socio-economic development.
+
+ARYA contributes to rural livelihood security, demographic dividend utilization, and modernization of Indian agriculture through youth-driven innovation.
+
+
+
+
+### Scheme: National Mission on Edible Oils – Oil Palm (NMEO-OP)  
+Type: Central  
+Tags: oil palm cultivation, import reduction, Viability Price, northeastern states, edible oil security  
+
+Description:  
+Launched in 2021, the National Mission on Edible Oils – Oil Palm (NMEO-OP) is a focused initiative by the Government of India to increase the domestic production of crude palm oil and reduce reliance on imports, which account for over 60% of India’s edible oil consumption.
+
+Key features of the mission:
+- Target to expand oil palm cultivation to 10 lakh hectares by 2025–26, particularly in north-eastern states and the Andaman & Nicobar Islands.
+- Provision of financial assistance for planting material, land development, intercropping, borewell installation, and fertigation systems.
+- Support for infrastructure such as oil palm mills, seed gardens, and harvesting tools.
+- **Viability Price Mechanism** to assure farmers of minimum remunerative returns, even if market prices fall.
+
+The mission includes special incentives for farmers adopting drip irrigation, sustainable practices, and seed-to-mill integration. It encourages private sector participation and processing infrastructure in palm clusters.
+
+States like Andhra Pradesh, Telangana, Assam, and Mizoram are priority beneficiaries due to agro-climatic suitability.
+
+NMEO-OP is also aligned with India’s Atmanirbhar Bharat (self-reliance) goals and is expected to boost farm income, generate rural employment, conserve foreign exchange, and build a resilient edible oil ecosystem by promoting long-term oil palm farming.
+
+
+
+
+### Scheme: Integrated Scheme on Agricultural Marketing (ISAM)  
+Type: Central  
+Tags: agri-marketing, rural haats, market infrastructure, cold storage, PPP, value chain  
+
+Description:  
+The Integrated Scheme on Agricultural Marketing (ISAM), operated by the Ministry of Agriculture and Farmers Welfare, is designed to develop a robust, transparent, and modern agricultural marketing system that improves price realization and reduces post-harvest losses.
+
+ISAM promotes the establishment, modernization, and integration of physical and digital markets by providing financial assistance to:
+- Develop and upgrade wholesale markets and regulated APMC mandis
+- Build rural primary markets, known as **Gramin Agricultural Markets (GrAMs)**
+- Establish **Cold Storage Units**, ripening chambers, warehouses, and dry storage godowns
+- Set up **grading and assaying laboratories**, auction platforms, and digital weighing bridges
+- Facilitate computerization and e-trading infrastructure
+
+The scheme encourages participation through **Public-Private Partnerships (PPP)** and convergence with other flagship schemes like e-NAM, AIF, and PMFME. It also offers viability gap funding and project-based grants for FPOs, cooperatives, SHGs, and private players.
+
+ISAM has enabled the integration of market intelligence systems, farmer kiosks, logistics solutions, and real-time price dissemination, reducing the need for middlemen and arbitrary price-setting.
+
+States like Maharashtra, Andhra Pradesh, Odisha, and Gujarat have implemented ISAM to strengthen local supply chains, especially for perishables. The scheme supports smallholders by enabling direct marketing, farmer-led value chains, and aggregation models.
+
+Overall, ISAM plays a pivotal role in transforming India’s agricultural marketing into a **demand-driven, farmer-centric, and digitally empowered ecosystem**.
+
+
+
+
+### Scheme: National Bamboo Mission (NBM)  
+Type: Central  
+Tags: bamboo farming, rural livelihoods, agroforestry, handicrafts, North East India  
+
+Description:  
+The National Bamboo Mission (NBM), restructured under the National Mission on Sustainable Agriculture, aims to boost India’s bamboo sector by encouraging cultivation, processing, and value addition through agroforestry models and market integration.
+
+The mission addresses critical gaps in:
+- Establishing high-quality nurseries and tissue culture labs for planting material
+- Expanding bamboo plantation on degraded land, forest fringes, and farm bunds
+- Developing bamboo-based industries for furniture, handicrafts, agarbatti, construction materials, and textiles
+- Creating primary processing infrastructure like drying units, splitting, and treatment machines
+
+NBM provides up to 50–100% subsidy for planting, fencing, drip irrigation, and procurement of bamboo tools and equipment. It also assists in setting up bamboo mandi yards, storage centers, and design hubs.
+
+Special emphasis is placed on empowering artisans, women-led enterprises, tribal communities, and SHGs. Skill development, quality certification, and branding support are offered through partnerships with NSDC and KVIC.
+
+North Eastern states like Assam, Tripura, Manipur, and Nagaland are major beneficiaries, as they possess rich natural bamboo resources. NBM encourages public-private collaboration to unlock domestic and export potential.
+
+By 2024, over 2.5 lakh hectares have been brought under bamboo cultivation, generating sustainable livelihoods and positioning bamboo as a **green alternative** for construction, packaging, and crafts.
+
+
+
+
+### Scheme: Mukhya Mantri Krishi Ashirwad Yojana (MMKAY)  
+Type: State (Jharkhand)  
+Tags: direct income support, marginal farmers, DBT, state schemes, financial inclusion  
+
+Description:  
+Mukhya Mantri Krishi Ashirwad Yojana (MMKAY) is a state-specific direct benefit transfer (DBT) scheme launched by the Government of Jharkhand to provide financial assistance to small and marginal farmers for crop-related expenses.
+
+Under this scheme:
+- Farmers owning up to 5 acres of cultivable land receive ₹5,000 per acre per year
+- Funds are directly transferred to beneficiaries' Aadhaar-linked bank accounts in one or more installments
+- Land records and e-KYC verification are used to identify eligible farmers
+
+The scheme complements PM-KISAN and is particularly effective in reducing dependency on informal credit, moneylenders, and high-interest loans. The financial support is primarily intended for inputs like seeds, fertilizers, pesticides, irrigation, and field preparation.
+
+A mobile application and grievance redressal helpline have been introduced to improve service delivery, ensure transparency, and track disbursement status.
+
+As of 2024, over 35 lakh farmers have benefited from MMKAY, leading to increased investment in timely sowing, improved productivity, and enhanced creditworthiness of farmers in backward and tribal areas of Jharkhand.
+
+The scheme is often cited as a model for effective state-level DBT implementation and has improved rural consumption patterns and farmer morale.
+
+
+
+
+
+
+
+### Scheme: YSR Rythu Bharosa  
+Type: State (Andhra Pradesh)  
+Tags: farmer welfare, direct benefit, PM-KISAN convergence, tenant farmers, insurance  
+
+Description:  
+YSR Rythu Bharosa is a comprehensive farmer welfare scheme launched by the Government of Andhra Pradesh to provide **annual financial support** to farmer families, including tenant farmers and landless cultivators engaged in agricultural activities.
+
+The scheme offers:
+- ₹13,500 per year per eligible farmer family, split into three installments
+   - ₹6,000 from the PM-KISAN scheme
+   - ₹7,500 directly from the state government
+- Coverage of over 50 lakh farmers and tenants identified via land and tenancy records
+
+Additional benefits under the scheme include:
+- Free crop insurance premiums covered by the state
+- Nine hours of free electricity for agricultural connections
+- Subsidized seed and fertilizer access through **Rythu Bharosa Kendras (RBKs)**
+
+RBKs act as integrated service centers offering soil testing, seed certification, pest advisory, e-crop booking, market rate display, and doorstep delivery of agri-inputs.
+
+The state uses real-time digital dashboards to monitor enrollment, payments, and complaints. The scheme is Aadhaar-linked and operates fully on the DBT model.
+
+YSR Rythu Bharosa has significantly helped stabilize farm incomes, reduced rural distress, and increased farmer trust in public delivery mechanisms. It is widely considered a **best-practice model** in farmer-centric governance in India.
+
+
+
+
+### Scheme: Krushak Assistance for Livelihood and Income Augmentation (KALIA)  
+Type: State (Odisha)  
+Tags: financial support, marginal farmers, landless laborers, crop diversification, insurance  
+
+Description:  
+The KALIA scheme, launched by the Government of Odisha, is a multi-dimensional welfare program designed to provide comprehensive financial, livelihood, and social security assistance to marginal farmers, sharecroppers, and landless agricultural laborers.
+
+Key components of KALIA include:
+- ₹10,000 per annum to small and marginal farmers in two installments for crop input support
+- ₹12,500 livelihood assistance to landless agricultural households for goat rearing, poultry, mushroom cultivation, beekeeping, etc.
+- **Life insurance cover of ₹2 lakh** at a nominal premium for all registered farmers
+- **Accidental death and disability insurance of ₹2 lakh**
+- Interest-free crop loans up to ₹50,000 for all eligible cultivators
+
+The scheme adopts a direct benefit transfer model and emphasizes inclusion through Gram Panchayat-level verification and grievance handling.
+
+KALIA promotes diversified farming, encourages entrepreneurship among rural youth, and aligns with state priorities for climate resilience, nutrition, and income security.
+
+As of 2024, more than 50 lakh households have been supported under the scheme. It has empowered vulnerable rural populations, reduced dependence on distress migration, and improved food and income security in backward and tribal regions of Odisha.
+
+KALIA has been recognized for its **integrated approach to farmer welfare**, going beyond input subsidies to provide livelihood security and rural empowerment.
+
+
+
+
+
+### Scheme: Bhavantar Bhugtan Yojana (BBY)  
+Type: State (Madhya Pradesh)  
+Tags: price deficiency, MSP, crop price support, market risk, farmer compensation  
+
+Description:  
+Bhavantar Bhugtan Yojana (BBY), introduced by the Government of Madhya Pradesh, is a unique **price deficiency payment** scheme that protects farmers from fluctuations in market prices of agricultural commodities.
+
+Instead of physical procurement like Minimum Support Price (MSP) schemes, BBY pays farmers the difference between the **government-declared MSP and the actual selling price** they receive in the open market.
+
+Key features:
+- Applicable to a variety of crops, including oilseeds, pulses, and select horticultural commodities
+- Registered farmers must sell their produce in notified mandis within a specified window
+- Payment is made via Direct Benefit Transfer (DBT) after verification of mandi receipts
+- Use of Aadhaar authentication and land ownership records for eligibility
+
+The scheme reduces pressure on procurement agencies and warehouses while ensuring **remunerative returns** to farmers.
+
+Implemented with the support of the **Unified Market Platform (UMP)** and e-mandi linkages, BBY has successfully reduced price volatility distress and encouraged farmers to diversify crops beyond traditional cereals.
+
+By 2024, over ₹5,000 crore has been disbursed under BBY, benefiting more than 20 lakh farmers. The scheme has been studied and adopted as a **model of market-linked price support** by other states such as Haryana and Chhattisgarh.
+
+
+
+
+### Scheme: Rythu Bandhu Scheme  
+Type: State (Telangana)  
+Tags: direct income support, landholding farmers, DBT, crop assistance, farm inputs  
+
+Description:  
+The Rythu Bandhu Scheme, launched in 2018 by the Government of Telangana, is India’s **first unconditional direct income support scheme** exclusively for landholding farmers. It provides financial assistance to cover input costs for each cropping season.
+
+Key benefits:
+- ₹5,000 per acre per crop season (Kharif and Rabi), totaling ₹10,000 annually
+- Disbursed directly to the bank accounts of landholding farmers based on digitized land records
+- No conditions or restrictions on the usage of funds
+
+The scheme aims to reduce farmers’ dependency on non-institutional credit, improve timely input purchase, and encourage investment in productivity-enhancing technologies.
+
+To ensure transparency:
+- Beneficiary data is linked to Dharani (state land records portal)
+- Aadhaar authentication is used for DBT
+- Real-time dashboards monitor disbursement and feedback
+
+By 2024, over ₹75,000 crore has been disbursed, benefitting 65+ lakh farmers. The scheme has increased cropping intensity and farmer satisfaction, and has influenced the design of national and state-level DBT-based farmer welfare models.
+
+Rythu Bandhu is often cited as a **pioneering success in direct income transfers** for agriculture in India.
+
+
+
+### Scheme: Biju Krushak Kalyan Yojana (BKKY)  
+Type: State (Odisha)  
+Tags: farmer health insurance, hospitalization cover, rural healthcare, women beneficiaries  
+
+Description:  
+The Biju Krushak Kalyan Yojana (BKKY) is a **health insurance scheme** launched by the Government of Odisha to provide free healthcare access to farmer families, including smallholders, landless laborers, and vulnerable rural groups.
+
+Salient features:
+- Cashless treatment up to ₹1 lakh per annum per family (₹1.5 lakh for women beneficiaries)
+- Coverage includes over 500 procedures in both government and empaneled private hospitals
+- Each enrolled family is issued a smart card for identification and claim tracking
+- No premium is charged to beneficiaries; fully funded by the state
+
+BKKY ensures access to emergency care, surgeries, diagnostics, maternity services, and post-hospitalization treatments. The scheme is integrated with Odisha’s **Swasthya Mitra** program and **State Health Assurance Society** for grievance redressal and real-time claims processing.
+
+To reach marginalized populations:
+- Enrollment camps are held at Panchayat levels
+- Focus is placed on tribal and remote districts
+
+As of 2023, over 65 lakh farmer families have availed benefits under BKKY. The scheme has significantly reduced out-of-pocket healthcare expenditure and improved health outcomes among rural agricultural households.
+
+
+### Scheme: Chief Minister Krishi Sa Sajuli Yojana (CMKSSY)  
+Type: State (Assam)  
+Tags: farm tools, small and marginal farmers, mechanization, subsidy, state aid  
+
+Description:  
+The Chief Minister Krishi Sa Sajuli Yojana (CMKSSY) is an Assam state initiative launched in 2018 to empower small and marginal farmers by providing financial grants for **farm tool procurement**.
+
+Key details:
+- One-time grant of ₹5,000 per farmer for purchasing tools and small implements such as sprayers, tillers, hoes, and winnowing machines
+- Selection is based on verified landholding and socioeconomic criteria
+- Beneficiaries must submit receipts and usage verification to district agriculture offices
+
+The scheme aims to:
+- Improve timeliness and efficiency of farm operations
+- Reduce manual labor and drudgery
+- Encourage adoption of mechanized practices at the grassroots level
+
+CMKSSY is implemented via a decentralized model where funds are transferred directly to the beneficiary accounts. Awareness drives and tool exhibitions are conducted to help farmers choose appropriate equipment.
+
+As of 2024, over 5 lakh farmers have benefited from the scheme, particularly in flood-prone and backward districts. CMKSSY complements central mechanization schemes and promotes productivity among resource-poor farmers.
+
+
+
+
+### Scheme: Jai Kisan Crop Loan Waiver Scheme  
+Type: State (Maharashtra)  
+Tags: loan waiver, debt relief, institutional credit, rural distress, marginal farmers  
+
+Description:  
+The Jai Kisan Crop Loan Waiver Scheme, launched by the Government of Maharashtra in 2019, is a **large-scale debt relief initiative** aimed at reducing agrarian distress and reviving access to institutional credit among farmers.
+
+Key provisions:
+- One-time waiver of up to ₹2 lakh for short-term crop loans availed between 2015–2019
+- Applies to farmers owning up to 5 hectares of land
+- Loans from cooperative, district, rural, and nationalized banks are eligible
+
+The scheme uses:
+- Digitized land records and Aadhaar-based verification
+- DBT model for crediting bank accounts
+- A mobile-friendly portal for enrollment, tracking, and redressal
+
+Special priority is given to drought-affected districts and socially disadvantaged farmers. Financial literacy drives accompany the scheme to promote sustainable credit behavior.
+
+By 2024, more than 30 lakh farmers have benefited with total disbursement exceeding ₹18,000 crore. The scheme has restored creditworthiness, reduced rural suicides, and strengthened institutional credit delivery in Maharashtra.
+
+It serves as a model for combining **financial relief with credit discipline** and farm investment revival.
+
+
+
+
+### Scheme: Mukhya Mantri Krishi Vikas Yojana (MMKVY)  
+Type: State (Chhattisgarh)  
+Tags: irrigation, watershed development, tribal areas, farm inputs, agriculture infrastructure  
+
+Description:  
+The Mukhya Mantri Krishi Vikas Yojana (MMKVY) is a state-level initiative launched by the Government of Chhattisgarh to enhance agricultural infrastructure and productivity, particularly in tribal, remote, and rainfed areas. It focuses on holistic rural development through decentralized resource planning and community participation.
+
+Key components include:
+- Development of small-scale irrigation facilities such as check dams, lift irrigation, tube wells, and canal lining
+- Support for farm ponds, water harvesting structures, and watershed management
+- Distribution of certified seeds, soil health cards, and micronutrient kits
+- Promotion of horticulture, fishery, and animal husbandry as income diversification strategies
+
+Under MMKVY, Gram Panchayats and local institutions are given autonomy to propose infrastructure projects based on agro-climatic needs. The scheme also funds agricultural implements, organic inputs, and extension services.
+
+Priority is given to SC/ST farmers and beneficiaries under the Forest Rights Act. Technical guidance is provided through Krishi Vigyan Kendras and District Agriculture Offices.
+
+By 2024, the scheme had covered over 40 lakh farmers and brought more than 2.5 lakh hectares under assured irrigation. MMKVY contributes to rural resilience, employment, and sustainable agricultural growth in Chhattisgarh’s underserved regions.
+
+
+
+
+### Scheme: Mukhya Mantri Bagayat Vikas Mission (MMBVM)  
+Type: State (Gujarat)  
+Tags: horticulture, barren land development, drip irrigation, agri-entrepreneurship, land leasing  
+
+Description:  
+The Mukhya Mantri Bagayat Vikas Mission (MMBVM), also known as the Horticulture Development Mission, is a pioneering land reform and agri-enterprise scheme launched by the Gujarat government to transform barren and wasteland into productive horticulture zones.
+
+Core features:
+- Government leases fallow and non-cultivable government land to Farmer Producer Organizations (FPOs), agri-startups, and private entities for horticulture development
+- Priority crops include pomegranate, guava, dragon fruit, date palm, lemon, and vegetables
+- Infrastructure support for fencing, borewells, drip irrigation, solar pumps, and packhouses
+- 70–90% subsidy on drip and sprinkler systems under convergence with PMKSY
+
+The mission facilitates:
+- Land pooling and aggregation models
+- Export-oriented high-value horticulture
+- Skill development and employment for rural youth
+- Efficient water use in semi-arid and tribal regions
+
+It is implemented by the Gujarat Agro Industries Corporation and monitored via GIS tools and drone mapping.
+
+By 2024, over 50,000 hectares had been converted into productive horticulture land, creating rural entrepreneurship, boosting exports, and positioning Gujarat as a leader in climate-resilient horticulture development.
+
+
+
+
+### Scheme: Gramin Bhandaran Yojana (Rural Godown Scheme)  
+Type: Central  
+Tags: storage, post-harvest management, warehousing, food security, NABARD subsidy  
+
+Description:  
+The Gramin Bhandaran Yojana is a capital investment subsidy scheme aimed at promoting the construction of scientific storage infrastructure in rural areas. It is implemented by the Ministry of Agriculture and Farmers Welfare with credit and subsidy support from NABARD and NCDC.
+
+Objectives:
+- Minimize post-harvest losses by enabling decentralized storage
+- Enhance holding capacity of farmers to avoid distress sale
+- Improve market linkages and food security
+
+Key features:
+- Capital subsidy up to 33.33% of project cost (up to ₹3 crore) for farmers, cooperatives, NGOs, SHGs, and agri-entrepreneurs
+- Support for godowns ranging from 50 to 1,000 metric tonnes
+- Eligible for term loans from commercial banks and cooperative institutions
+- Technical standards and appraisals guided by NABARD and WDRA
+
+The scheme enables farmers to store produce locally and access pledge financing from banks against warehouse receipts. It also supports cold storage and silos for perishable and bulk commodities.
+
+Since inception, over 50,000 godowns with combined capacity exceeding 60 million tonnes have been constructed. The scheme has improved food safety, reduced supply chain bottlenecks, and empowered smallholders with better market timing.
+
+
+
+### Scheme: Agricultural Technology Management Agency (ATMA)  
+Type: Centrally Sponsored  
+Tags: extension services, farmer training, technology adoption, KVKs, knowledge dissemination  
+
+Description:  
+The Agricultural Technology Management Agency (ATMA) scheme is a decentralized, district-level initiative designed to bridge the gap between agricultural research and field-level extension through coordinated knowledge sharing and farmer empowerment.
+
+Implemented across all districts in India, ATMA operates in convergence with Krishi Vigyan Kendras (KVKs), state agricultural universities, and other line departments.
+
+Key activities include:
+- Preparation of Strategic Research Extension Plans (SREPs)
+- Establishment of **Farmer Advisory Committees (FACs)** and **Block Technology Teams (BTTs)**
+- Organization of field demonstrations, exposure visits, farmer-scientist interactions, and ICT-enabled training programs
+- Support for agri-clinics, agri-business centers, and custom hiring service units
+
+The scheme emphasizes demand-driven extension, gender mainstreaming, and participatory planning. ATMA also funds commodity-specific extension models and climate-smart agriculture training.
+
+By 2024, over 10 crore farmers had been reached through ATMA's network. The scheme strengthens last-mile connectivity of new technologies, improves productivity through knowledge transfer, and enhances farm profitability by aligning science with local need.
+
+
+
+
+### Scheme: National Mission on Oilseeds and Oil Palm (NMOOP)  
+Type: Centrally Sponsored  
+Tags: oilseeds, oil palm, productivity, import substitution, hybrid seeds  
+
+Description:  
+The National Mission on Oilseeds and Oil Palm (NMOOP) was launched in 2014 to increase India’s domestic production of edible oils by enhancing the productivity of oilseed crops and expanding oil palm cultivation.
+
+Mission components:
+- **Mini kits and demonstrations** on improved crop practices for groundnut, mustard, sunflower, and soybean
+- Distribution of **certified seeds and breeder seed production**
+- Financial support for **farm mechanization**, including planters and threshers
+- Oil palm expansion in Andhra Pradesh, Kerala, Tamil Nadu, and northeastern states
+- Post-harvest infrastructure like oil expellers and packaging units
+
+The mission encourages intercropping, integrated pest management, and water-saving irrigation technologies. It also funds farmer training and quality assurance labs for oil extraction.
+
+NMOOP plays a vital role in **reducing India’s edible oil import dependency**, which stands at over 60%. Through focused productivity enhancements and area expansion, the mission aims to bridge the demand-supply gap sustainably.
+
+By 2023, NMOOP helped increase oilseed production to over 37 million tonnes annually, contributing to food security, rural employment, and agro-industrial development.
+
+
+
+
